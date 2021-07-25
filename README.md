@@ -1,1 +1,13 @@
-Buenas Soy NVK y espero que mis scripts te ayuden en algo :p
+
+┌──┤ WHOAMI ├─────────▰▰▰
+├─▣ Aficionado De La Informatica
+├─▣ Desarrollador de Scripts (En Python3)
+└───────────────────────────────▰▰▰
+
+┌──┤ Contacto ├─────────▰▰▰
+├─◈ Discord (NVK32#2145)
+└───────────────────────────────▰▰▰
+
+┌──┤ PROJECTOS ├───────▰▰▰
+├─◈ Nada Aun
+└───────────────────────────────▰▰▰
